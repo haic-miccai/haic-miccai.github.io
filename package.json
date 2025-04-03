@@ -3,9 +3,9 @@
   "version": "0.5.0",
   "description": "website for the workshop",
   "scripts": {
-    "start": "docsify serve ./docs"
+    "start": "docsify serve ."
   },
   "dependencies": {
-    "docsify": "^4.12.1"
+    "docsify": "^4.4"
   }
 }
