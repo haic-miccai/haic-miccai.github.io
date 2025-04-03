@@ -71,7 +71,7 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - Learning to safeguard AI and human users
 
-**Assessment and metrics for joint systems and workflows**
+**Design and assessment of Assessment and metrics for joint systems and workflows**
 
 - Constructing new evaluation datasets  
 
@@ -80,17 +80,22 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 **Applications: involving any of the above elements**
 
-### Submission Guidelines
+### Author Guidelines
 **Format:** Submissions are required to follow the same [format](https://conferences.miccai.org/2025/en/PAPER-SUBMISSION-GUIDELINES.html) as specified for the MICCAI 2025 main conference: a maximum of 8 pages of main content, with up to 2 additional pages for references. All submissions should follow the Springer LNCS [LaTeX](https://conferences.miccai.org/2025/files/downloads/MICCAI2025-LaTeX-Template.zip) or [Word](https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Word-Template.zip) template. 
 
-**Review Process:** All submissions will undergo a double-blind peer-review process. Accepted submissions will be presented either as oral presentations or posters. The decision on presentation format will be made by the organization committee based on the reviewers' overall feedback and ranking. 
+**Review Process:** All submissions will undergo a double-blind peer-review process by multiple reviewers. 
 
-**Submission Portal:** Please submit your paper through the workshop [Submission Portal]() (TBA). 
-
-**Submission Deadline:** June 25, 2025 (23:59 PST). 
+**Presentations:** All accepted submissions will be invited for in-person poster presentations. A selected subset of works will be invited for oral or spotlight presentations. The decision on presentation format will be based on the reviewers' overall feedback and ranking. 
 
 **Workshop Proceedings:**: 
 Workshop proceedings with be published with the [Springer Lecture Notes in Computer Science (LNCS) series](https://www.springer.com/gp/computer-science/lncs). 
+
+
+### Submission Guidelines
+**Submission Portal:** Please submit your paper through the workshop's [CMT submission link]() (TBA). 
+
+**Submission Deadline:** June 25, 2025 (23:59 PST). 
+
 
 ## Program
 
