@@ -71,7 +71,7 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - Learning to safeguard AI and human users
 
-**Design and assessment of Assessment and metrics for joint systems and workflows**
+**Assessment and metrics for joint systems and workflows**
 
 - Constructing new evaluation datasets  
 
