@@ -6,7 +6,7 @@
 
 The success of Artificial Intelligence (AI) in dynamic, real-world healthcare environments increasingly depends on effective collaboration between AI and human healthcare experts. Despite the rapid advancement of AI, significant questions remain regarding the role of human factors and the establishment of best practices for human-AI collaboration.  
 
-**The MICCAI 2025 Human-AI Collaboration (HAIC) Workshop** offers the first systematic discussion forum addressing all aspects surrounding human-AI collaboration for the MICCAI community. Through this workshop, we aim to raise awareness about human-AI collaboration in MIC and CAI and spark discussions on identifying and addressing frequently overlooked challenges that involve human factors in MIC and CAI. 
+**The MICCAI 2025 Human-AI Collaboration (HAIC) Workshop** offers the first systematic discussion forum addressing all aspects surrounding **human-AI interaction, collaboration, and human factor modeling** for the MICCAI community. Through this workshop, we aim to raise awareness about human-AI collaboration in MIC and CAI and spark discussions on identifying and addressing frequently overlooked challenges that involve human factors in MIC and CAI. 
 
 The workshop will be held in conjunction with the [28th International Conference on Medical Image Computing and Computer Assisted Intervention](https://conferences.miccai.org/2025/en/default.asp) at Daejeon Convention Center, Daejeon, South Korea. 
 
@@ -16,36 +16,29 @@ The workshop will be held in conjunction with the [28th International Conference
 
 ## Call for Papers
 
-We call for original, unpublished works that cover innovative methodologies, validation, application, or best practices for human-AI collaboration in medical image computing and computer-assisted interventions. Please find it below a non-exhaustive list of themes and topics.
+We call for original, unpublished works that cover innovative methodologies, validation, application, or best practices for human-AI interaction, collaboration, and human factor modeling in medical image computing and computer-assisted interventions. Please find it below a non-exhaustive list of themes and topics.
 
 ### List of Themes
 
-**Collaborative approaches and decision making**
+**Human-AI collaborative approaches and joint decision making**
 
-- Interactive predictors (e.g., classification, detection, and segmentation)
+- Interactive predictors (e.g., interactive classification, detection, and segmentation)
   
-- Human-AI collaborative/assistive agents
+- Human-AI collaborative/assistive agents and agent systems
 
-**Medical procedure analysis and skill augmentation**
+**Medical procedure analysis for human skill understanding and augmentation**
   
-- Video analysis, interpretation, and action modeling for imaging and/or intervention procedures
+- Image/video analysis, interpretation, and action modeling for imaging and/or intervention procedures
 
 - AI-assisted guidance and navigation for imaging and intervention
 
-- AI-assisted medical text mining
-
 - Agents and agent systems inspired by human behaviors and specializations
 
-- AI assistants for medical education
+- AI-assisted medical text mining
 
 - AI-accelerated medical science: hypothesis generation, experiment planning, implementation, and outcome interpretation
 
-**Building virtual environments to enhance human skills and human-AI teaming outcomes**
-- Simulation environments for training and skill enhancement.
-
-- Virtual/augmented/mixed reality applications for HAIC
-
-**Emerging techniques for natural human-AI communication**
+**Emerging techniques for natural human-AI interaction and communication**
 
 - Multimodal models that incorporate textual information (e.g., for medical question answering, diagnosis, and/or treatment planning)
 
@@ -59,23 +52,32 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - Active learning approaches and applications
 
-- Incorporating structured/unstructured human feedback (e.g., natural language instruction, preference labels) in training
+- Incorporating structured/unstructured human feedback (e.g., natural language instructions, preference labels) in training
 
-**Transparency, interpretability, and risk management**  
+**Boosting transparency, interpretability, and risk management for joint human-AI systems**  
 
 - Explainable medical AI and/or its impact on joint decisions
 
 - Reasoning-empowered models
 
-- Out-of-distribution management, hallucination mitigation, and decision-deferrals
+- Out-of-distribution management, hallucination mitigation, uncertainty communication, and decision-deferrals
 
 - Learning to safeguard AI and human users
 
-**Assessment and metrics for joint systems and workflows**
+**Interactive environments for clinical training, education, and human-AI teaming outcomes**
+
+- AI assistants for medical education
+
+- Simulation environments for clinical training and skill enhancement.
+
+- Virtual/augmented/mixed reality applications for HAIC
+
+**Design and assessment for joint systems and workflows**
 
 - Constructing new evaluation datasets  
 
 - Identifying new clinically accepted evaluation metrics or gold standards
+
 - Case study on existing human-AI joint workflows
 
 **Applications: involving any of the above elements**
