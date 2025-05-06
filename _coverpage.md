@@ -1,7 +1,7 @@
 <!-- Cover page -->
 
 ![](images/workshop_banner.png)
-# MICCAI 2025 Human-AI Collaboration (HAIC) Workshop
+# MICCAI Workshop on Human-AI Collaboration (HAIC)
 
 In conjunction with the [28th International Conference on Medical Image Computing and Computer Assisted Intervention](https://conferences.miccai.org/2025/en/default.asp)
 
