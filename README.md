@@ -1,12 +1,12 @@
 <img src="./images/mainpage_figure.png" alt="Mainpage figure" style="width: 50% !important; max-width: none !important; display: block; margin: 0 auto;">
 
-# MICCAI 2025 Human-AI Collaboration Workshop (HAIC)
+# 1st MICCAI Workshop on Human-AI Collaboration (HAIC)
 
 ## Overview
 
 The success of Artificial Intelligence (AI) in dynamic, real-world healthcare environments increasingly depends on effective collaboration between AI and human healthcare experts. Despite the rapid advancement of AI, significant questions remain regarding the role of human factors and the establishment of best practices for human-AI collaboration.  
 
-**The MICCAI 2025 Human-AI Collaboration (HAIC) Workshop** offers the first systematic discussion forum addressing all aspects surrounding **human-AI interaction, collaboration, and human factor modeling** for the MICCAI community. Through this workshop, we aim to raise awareness about human-AI collaboration in MIC and CAI and spark discussions on identifying and addressing frequently overlooked challenges that involve human factors in MIC and CAI. 
+**The 1st MICCAI Workshop on Human-AI Collaboration (HAIC)** offers the first systematic discussion forum addressing all aspects surrounding **human-AI interaction, collaboration, and human factor modeling** for the MICCAI community. Through this workshop, we aim to raise awareness about human-AI collaboration in MIC and CAI and spark discussions on identifying and addressing frequently overlooked challenges that involve human factors in MIC and CAI. 
 
 The workshop will be held in conjunction with the [28th International Conference on Medical Image Computing and Computer Assisted Intervention](https://conferences.miccai.org/2025/en/default.asp) at Daejeon Convention Center, Daejeon, South Korea. 
 
