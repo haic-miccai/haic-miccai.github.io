@@ -1,6 +1,6 @@
 <img src="./images/mainpage_figure.png" alt="Mainpage figure" style="width: 50% !important; max-width: none !important; display: block; margin: 0 auto;">
 
-# 1st MICCAI Workshop on Human-AI Collaboration (HAIC)
+# The 1st MICCAI Workshop on Human-AI Collaboration (HAIC)
 
 ## Overview
 
