@@ -32,13 +32,15 @@ We call for original, unpublished works that cover innovative methodologies, val
   
 - Image/video analysis, interpretation, and action modeling for imaging and/or intervention procedures
 
-- AI-assisted guidance and navigation for imaging and intervention
+- Human behavior modeling and analysis in medical procedures
 
-- Agents and agent systems inspired by human behaviors and specializations
+- AI-assisted guidance and navigation for imaging and intervention
 
 - AI-assisted medical text mining
 
 - AI-accelerated medical science: hypothesis generation, experiment planning, implementation, and outcome interpretation
+
+- Agents and agent systems inspired by human behaviors and specializations
 
 **Emerging techniques for human-AI interaction and communication**
 
@@ -50,9 +52,9 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - Patient-facing models
 
-**Human-in-the-loop model training**
+**Human-in-the-loop model training and fine-tuning**
 
-- Interactive learning and fine-tuning approaches
+- Interactive learning and fine-tuning approaches and applications
 
 - Active learning approaches and applications
 
@@ -64,7 +66,9 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - Reasoning-empowered models
 
-- Out-of-distribution management, hallucination mitigation, uncertainty modeling & communication, and decision deferrals.
+- Out-of-distribution management, hallucination mitigation, and decision deferrals
+
+- Uncertainty modeling, propagation, and communication 
 
 - Learning to safeguard AI and human users
 
@@ -72,7 +76,7 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - AI assistants for medical education
 
-- Simulation environments for clinical training and skill enhancement.
+- Simulation environments for clinical training and skill enhancement
 
 - Virtual/augmented/mixed reality applications for HAIC
 
