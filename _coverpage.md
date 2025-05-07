@@ -5,7 +5,7 @@
 
 In conjunction with the [28th International Conference on Medical Image Computing and Computer Assisted Intervention](https://conferences.miccai.org/2025/en/default.asp)
 
-September 2025
+September 27, 2025
 
 Daejeon Convention Center, Daejeon, South Korea
 
