@@ -94,7 +94,7 @@ Workshop proceedings with be published with the [Springer Lecture Notes in Compu
 
 
 ### Submission Guidelines
-**Submission Portal:** Please submit your paper through the workshop's [CMT Portal](https://cmt3.research.microsoft.com/HAIC2025) (submission not opened yet). 
+**Submission Portal:** Please submit your paper through the workshop's [CMT Portal](https://cmt3.research.microsoft.com/HAIC2025) (submission opening soon). 
 
 **Submission Deadline:** June 25, 2025 (23:59 PST). 
 
