@@ -48,7 +48,7 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - Patient-facing models
 
-**Human-in-the loop model training**
+**Human-in-the-loop model training**
 
 - Active learning approaches and applications
 
