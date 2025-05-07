@@ -38,7 +38,7 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - AI-accelerated medical science: hypothesis generation, experiment planning, implementation, and outcome interpretation
 
-**Emerging techniques for natural human-AI interaction and communication**
+**Emerging techniques for human-AI interaction and communication**
 
 - Multimodal models that incorporate textual information (e.g., for medical question answering, diagnosis, and/or treatment planning)
 
