@@ -1,4 +1,4 @@
-<img src="./images/mainpage_figure.png" alt="Mainpage figure" style="width: 50% !important; max-width: none !important; display: block; margin: 0 auto;">
+<img src="./images/mainpage_figurev2.png" alt="Mainpage figure" style="width: 100% !important; max-width: none !important; display: block; margin: 0 auto;">
 
 # The 1st MICCAI Workshop on Human-AI Collaboration (HAIC)
 
@@ -120,36 +120,36 @@ TBA
 | Notification of paper decisions |	July 16, 2025 | 
 |Camera-ready papers due	|	July 30, 2025 | 
 |Workshop proceedings due |	August 15, 2025 | 
-|**Workshop date**	|		September 23 or September 27, 2025 (TBA) 
+|**Workshop date**	|		September 27, 2025 
 <p align="right"><em>(All times are 23:59 PST)</em></p>
 
 
 ## Organizers
 *Alphabetical order by last name*
 ### Organization Committee
-- Xiaoqing Guo (Hong Kong Baptist University) 
+- [Xiaoqing Guo](https://guo-xiaoqing.github.io/) (Hong Kong Baptist University) 
 
-- Yueming Jin (National University of Singapore)
+- [Yueming Jin](https://yuemingjin.github.io/) (National University of Singapore)
 
-- Hala Lamdouar (University of Oxford)
+- [Hala Lamdouar](https://hlamdouar.github.io/) (University of Oxford)
 
-- Qianhui Men (University of Bristol)
+- [Qianhui Men](https://qianhuimen.github.io/) (University of Bristol)
 
-- Cheng Ouyang (University of Oxford)
+- [Cheng Ouyang](https://cheng-01037.github.io/) (University of Oxford)
 
-- Manish Sahu (Johns Hopkins University)
+- [Manish Sahu](https://sahumanish.github.io) (Johns Hopkins University)
 
-- S. Swaroop Vedula (Johns Hopkins University)
+- [S. Swaroop Vedula](https://malonecenter.jhu.edu/people/swaroop-vedula/) (Johns Hopkins University)
 
 ### Advisory Board
 
-- Qi Dou (Chinese University of Hong Kong)
+- [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/) (Chinese University of Hong Kong)
 
-- Helen Higham (University of Oxford)
+- [Helen Higham](http://www.cse.cuhk.edu.hk/~qdou/) (University of Oxford)
 
-- Nassir Navab (Technical University of Munich)
+- [Nassir Navab](http://www.cse.cuhk.edu.hk/~qdou/) (Technical University of Munich)
 
-- Alison Noble (University of Oxford)
+- [Alison Noble](https://ibme.ox.ac.uk/person/alison-noble/) (University of Oxford)
 
 
 ### Program Committee
@@ -168,6 +168,10 @@ TBA
 ## Contact
 
 For general inquiries please contact miccai.haic@gmail.com
+
+<div style="margin-top: 20px; text-align: center;">
+    <img src="/images/organizers_institutes.png" alt="Organizer's Institute Logo" style="max-width: 100%; height: auto;">
+  </div>  
 
 <style>
       a {
