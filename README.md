@@ -23,6 +23,8 @@ We call for original, unpublished works that cover innovative methodologies, val
 **Human-AI collaborative approaches and joint decision making**
 
 - Interactive predictors (e.g., interactive classification, detection, and segmentation)
+
+- Joint decision approaches combining human expertise and AI insights
   
 - Human-AI collaborative/assistive agents and agent systems
 
@@ -50,9 +52,11 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 **Human-in-the-loop model training**
 
+- Interactive learning and fine-tuning approaches
+
 - Active learning approaches and applications
 
-- Incorporating structured/unstructured human feedback (e.g., natural language instructions, preference labels) in training
+- Incorporating structured/unstructured human feedback (e.g., natural language instructions, preference labels) in training/fine-tuning
 
 **Boosting transparency, interpretability, and risk management for joint human-AI systems**  
 
@@ -60,7 +64,7 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - Reasoning-empowered models
 
-- Out-of-distribution management, hallucination mitigation, uncertainty communication, and decision-deferrals
+- Out-of-distribution management, hallucination mitigation, uncertainty modeling & communication, and decision deferrals.
 
 - Learning to safeguard AI and human users
 
