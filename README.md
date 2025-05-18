@@ -12,7 +12,9 @@ The workshop will be held in conjunction with the [28th International Conference
 
 ## News
 
-[April 3, 2025] Website for MICCAI HAIC workshop is online!
+[May 19, 2025] The workshop is now [**open for submissions!**](https://cmt3.research.microsoft.com/HAIC2025) 
+
+[April 3, 2025] Website for MICCAI HAIC workshop is online.
 
 ## Call for Papers
 
@@ -102,7 +104,8 @@ Workshop proceedings with be published with the [Springer Lecture Notes in Compu
 
 
 ### Submission Guidelines
-**Submission Portal:** Please submit your paper through the workshop's [CMT Portal](https://cmt3.research.microsoft.com/HAIC2025) (submission opening soon). 
+
+**Submission Portal:** Please submit your paper through the workshop's [CMT Portal](https://cmt3.research.microsoft.com/HAIC2025) (8-page + 2-page references, Springer LNCS format). 
 
 **Submission Deadline:** June 25, 2025 (23:59 PST). 
 
