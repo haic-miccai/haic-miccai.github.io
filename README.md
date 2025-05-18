@@ -25,6 +25,8 @@ We call for original, unpublished works that cover innovative methodologies, val
 **Human-AI collaborative approaches and joint decision making**
 
 - Interactive predictors (e.g., interactive classification, detection, and segmentation)
+
+- Joint decision approaches combining human expertise and AI insights
   
 - Human-AI collaborative/assistive agents and agent systems
 
@@ -32,15 +34,17 @@ We call for original, unpublished works that cover innovative methodologies, val
   
 - Image/video analysis, interpretation, and action modeling for imaging and/or intervention procedures
 
-- AI-assisted guidance and navigation for imaging and intervention
+- Human behavior modeling and analysis in medical procedures
 
-- Agents and agent systems inspired by human behaviors and specializations
+- AI-assisted guidance and navigation for imaging and intervention
 
 - AI-assisted medical text mining
 
 - AI-accelerated medical science: hypothesis generation, experiment planning, implementation, and outcome interpretation
 
-**Emerging techniques for natural human-AI interaction and communication**
+- Agents and agent systems inspired by human behaviors and specializations
+
+**Emerging techniques for human-AI interaction and communication**
 
 - Multimodal models that incorporate textual information (e.g., for medical question answering, diagnosis, and/or treatment planning)
 
@@ -50,11 +54,13 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - Patient-facing models
 
-**Human-in-the loop model training**
+**Human-in-the-loop model training and fine-tuning**
+
+- Interactive learning and fine-tuning approaches and applications
 
 - Active learning approaches and applications
 
-- Incorporating structured/unstructured human feedback (e.g., natural language instructions, preference labels) in training
+- Incorporating structured/unstructured human feedback (e.g., natural language instructions, preference labels) in training/fine-tuning
 
 **Boosting transparency, interpretability, and risk management for joint human-AI systems**  
 
@@ -62,7 +68,9 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - Reasoning-empowered models
 
-- Out-of-distribution management, hallucination mitigation, uncertainty communication, and decision-deferrals
+- Out-of-distribution management, hallucination mitigation, and decision deferrals
+
+- Uncertainty modeling, propagation, and communication 
 
 - Learning to safeguard AI and human users
 
@@ -70,7 +78,7 @@ We call for original, unpublished works that cover innovative methodologies, val
 
 - AI assistants for medical education
 
-- Simulation environments for clinical training and skill enhancement.
+- Simulation environments for clinical training and skill enhancement
 
 - Virtual/augmented/mixed reality applications for HAIC
 
@@ -96,7 +104,8 @@ Workshop proceedings with be published with the [Springer Lecture Notes in Compu
 
 
 ### Submission Guidelines
-**Submission Portal:** Please submit your paper through the workshop's [CMT Portal](https://cmt3.research.microsoft.com/HAIC2025). 
+
+**Submission Portal:** Please submit your paper through the workshop's [CMT Portal](https://cmt3.research.microsoft.com/HAIC2025) (8-page + 2-page references, Springer LNCS format). 
 
 **Submission Deadline:** June 25, 2025 (23:59 PST). 
 
