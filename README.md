@@ -12,6 +12,8 @@ The workshop will be held in conjunction with the [28th International Conference
 
 ## News
 
+[June 16, 2025] We have extended the submission deadline to July 02, 23:59 PST.
+
 [May 19, 2025] The workshop is now [**open for submissions!**](https://cmt3.research.microsoft.com/HAIC2025) 
 
 [April 3, 2025] Website for MICCAI HAIC workshop is online.
@@ -107,7 +109,7 @@ Workshop proceedings with be published with the [Springer Lecture Notes in Compu
 
 **Submission Portal:** Please submit your paper through the workshop's [CMT Portal](https://cmt3.research.microsoft.com/HAIC2025) (8-page + 2-page references, Springer LNCS format). 
 
-**Submission Deadline:** June 25, 2025 (23:59 PST). 
+**Submission Deadline:** July 2, 2025 (23:59 PST) ~~June 25, 2025 (23:59 PST)~~. 
 
 
 ## Program
@@ -127,10 +129,9 @@ TBA
 | Date  | Milestone |
 |---|---|
 | Submission open | April 15, 2025 (TBC) |
-| **Paper submission due** | **June 25, 2025** |
-| Notification of paper decisions |	July 16, 2025 | 
-|Camera-ready papers due	|	July 30, 2025 | 
-|Workshop proceedings due |	August 15, 2025 | 
+| **Paper submission due** | **July 2, 2025** ~~June 25, 2025~~ |
+| Notification of paper decisions |	July 20, 2025 | 
+|Camera-ready papers due	|	August 3, 2025 | 
 |**Workshop date**	|		September 27, 2025 
 <p align="right"><em>(All times are 23:59 PST)</em></p>
 
@@ -165,7 +166,37 @@ TBA
 
 ### Program Committee
 
-TBA 
+ - Alex Moehring (Purdue University)
+
+ - Caroline Essert (Université de Strasbourg / ICUBE)
+
+ - David Black (University of British Columbia)
+
+ - Haojun Jiang (Tsinghua University)
+ - Harry Rogers (University of Oxford)
+ - Jiancheng Yang (EPFL)
+
+ - Kun Yuan (University of Strasbourg)
+
+ - Linlin Shen (Shenzhen University)
+
+ - Mohammad Alsharid (Khalifa University)
+
+ - Qian Li (National University of Singapore)
+
+ - Qiaoyu Zheng (Shanghai Jiao Tong University)
+
+ - Runlong He (University College London)
+
+ - Ruoyu Chen (Institute of Information Engineering, Chinese Academy of Sciences)
+
+ - Ryo Fujii (Keio University)
+
+ - Yunhe Gao (Rutgers University) 
+
+ - Zhe Xu (Chinese University of Hong Kong)
+
+ - Ziyang Wang (University of Oxford) 	
 
 ## Sponsors
 
