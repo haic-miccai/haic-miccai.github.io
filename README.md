@@ -173,7 +173,9 @@ TBA
  - David Black (University of British Columbia)
 
  - Haojun Jiang (Tsinghua University)
+   
  - Harry Rogers (University of Oxford)
+   
  - Jiancheng Yang (EPFL)
 
  - Kun Yuan (University of Strasbourg)
@@ -181,6 +183,8 @@ TBA
  - Linlin Shen (Shenzhen University)
 
  - Mohammad Alsharid (Khalifa University)
+
+ - Muhammad Ridzuan (MBZUAI)
 
  - Qian Li (National University of Singapore)
 
