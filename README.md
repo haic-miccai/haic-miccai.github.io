@@ -109,7 +109,7 @@ Workshop proceedings with be published with the [Springer Lecture Notes in Compu
 
 **Submission Portal:** Please submit your paper through the workshop's [CMT Portal](https://cmt3.research.microsoft.com/HAIC2025) (8-page + 2-page references, Springer LNCS format). 
 
-**Submission Deadline:** July 2, 2025 (23:59 PST) ~~June 25, 2025 (23:59 PST)~~. 
+**Submission Deadline:** July 2, 2025 (23:59 PST). 
 
 
 ## Program
@@ -129,9 +129,9 @@ TBA
 | Date  | Milestone |
 |---|---|
 | Submission open | April 15, 2025 (TBC) |
-| **Paper submission due** | **July 2, 2025** ~~June 25, 2025~~ |
-| Notification of paper decisions |	~~July 20, 2025~~ Pending | 
-|Camera-ready papers due	|	August 1, 2025 | 
+| **Paper submission due** | **July 2, 2025** |
+| Notification of paper decisions |	July 25, 2025 | 
+|Camera-ready papers due	|	July 30, 2025 | 
 |**Workshop date**	|		September 27, 2025 
 <p align="right"><em>(All times are 23:59 PST)</em></p>
 
@@ -167,15 +167,21 @@ TBA
 ### Program Committee
 
  - Alex Moehring (Purdue University)
+ 
+ - Bernhard Kainz (FAU Erlangen-Nürnberg / Imperial College London) 
 
  - Caroline Essert (Université de Strasbourg / ICUBE)
 
  - David Black (University of British Columbia)
-
+ 
+ - Francis Xiatian Zhang (University of Edinburgh) 
+ 
  - Haojun Jiang (Tsinghua University)
    
  - Harry Rogers (University of Oxford)
-   
+
+ - Hermione Warr (University of Oxford) 
+  
  - Jiancheng Yang (EPFL)
 
  - Kun Yuan (University of Strasbourg)
@@ -195,6 +201,8 @@ TBA
  - Ruoyu Chen (Institute of Information Engineering, Chinese Academy of Sciences)
 
  - Ryo Fujii (Keio University)
+
+ - Yasin Ibrahim (University of Oxford)
 
  - Yunhe Gao (Rutgers University) 
 
