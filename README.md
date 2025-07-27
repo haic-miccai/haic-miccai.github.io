@@ -130,8 +130,8 @@ TBA
 |---|---|
 | Submission open | April 15, 2025 (TBC) |
 | **Paper submission due** | **July 2, 2025** ~~June 25, 2025~~ |
-| Notification of paper decisions |	July 20, 2025 | 
-|Camera-ready papers due	|	August 3, 2025 | 
+| Notification of paper decisions |	~~July 20, 2025~~ Pending | 
+|Camera-ready papers due	|	August 1, 2025 | 
 |**Workshop date**	|		September 27, 2025 
 <p align="right"><em>(All times are 23:59 PST)</em></p>
 
@@ -173,7 +173,9 @@ TBA
  - David Black (University of British Columbia)
 
  - Haojun Jiang (Tsinghua University)
+   
  - Harry Rogers (University of Oxford)
+   
  - Jiancheng Yang (EPFL)
 
  - Kun Yuan (University of Strasbourg)
@@ -181,6 +183,8 @@ TBA
  - Linlin Shen (Shenzhen University)
 
  - Mohammad Alsharid (Khalifa University)
+
+ - Muhammad Ridzuan (MBZUAI)
 
  - Qian Li (National University of Singapore)
 
