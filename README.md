@@ -310,8 +310,9 @@ TBA
 
 For general inquiries please contact miccai.haic@gmail.com
 
+
 <div style="margin-top: 20px; text-align: center;">
-    <img src="/images/organizers_institutes.png" alt="Organizer's Institute Logo" >
+    <img src="/images/organizers_institutes.png" alt="Organizer's Institute Logo" style="max-width: 100%; height: auto;">
   </div>  
 
 <style>
@@ -319,5 +320,3 @@ For general inquiries please contact miccai.haic@gmail.com
         color: #007785 !important;
       }
 </style>
-
-
