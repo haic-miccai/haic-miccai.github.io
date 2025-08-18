@@ -12,6 +12,8 @@ The workshop will be held in conjunction with the [28th International Conference
 
 ## News
 
+[August 11, 2025] We are honored to be sponsored by [NVIDIA](https://www.nvidia.com).
+
 [June 16, 2025] We have extended the submission deadline to July 02, 23:59 PST.
 
 [May 19, 2025] The workshop is now [**open for submissions!**](https://cmt3.research.microsoft.com/HAIC2025) 
@@ -114,21 +116,105 @@ Workshop proceedings with be published with the [Springer Lecture Notes in Compu
 
 ## Program
 
-### Keynote Speakers (Tentative)
+### Keynote Speakers
 
 [**Prof. Helen Higham**](https://www.neuroscience.ox.ac.uk/research-directory/helen-higham) (Director of the OxSTaR Centre, University of Oxford, UK)
 
 [**Prof. Nassir Navab**](https://www.cs.cit.tum.de/camp/members/cv-nassir-navab/nassir-navab/) (Director of CAMP, Technical University of Munich, Germany)
 
+
+### Industry Speaker
+
+[**Dr. Daguang Xu**](https://research.nvidia.com/person/daguang-xu) (Senior Research Manager, NVIDIA)
+
+
 ### Program Schedule
 
-TBA
+Workshop Date: September 27, 2025
+
+<br>
+
+**Session 1:  Opening Remarks, Keynote 1, Industry Talk, and Oral Presentations**
+
+13:30–13:40  Opening Remarks
+
+<br>
+
+13:40–14:05  Keynote Talk 1
+
+*Prof. Nassir Navab*, Director of the Laboratories for Computer Aided Medical Procedures, Technical University of Munich
+
+<br>
+14:05–14:30  Industry Talk
+
+*Dr. Daguang Xu*, Senior Research Manager, NVIDIA
+
+<br>
+
+14:30–15:30  Oral Session 1
+
+14:30–14:45  User Perception of Attention Visualizations: Effects on Interpretability Across Evidence-Based Medical Documents
+
+*Andres Carvallo,  Denis Parra, Peter Brusilovsky, Hernan Valdivieso, Gabriel Rada, Ivania Donoso, Vladimir Araujo*
+
+14:45–15:00  Explainable AI for Automated User-specific Feedback in Surgical Skill Acquisition
+
+*Catalina Gomez, Lalithkumar Seenivasan, Xinrui Zou, Jeewoo Yoon, Sirui Chu, Ariel Leong, Patrick Kramer, Yu-Chun Ku, Jose L. Porras, Alejandro Martin-Gomez, Masaru Ishii, Mathias Unberath*
+
+15:00–15:15  Beyond Manual Annotation: A Human-AI Collaborative Framework for Medical Image Segmentation Using Only “Better or Worse” Expert Feedback
+
+*Yizhe Zhang*
+
+15:15–15:30  A methodology for clinically driven interactive segmentation evaluation
+
+*Parhom Esmaeili, Pedro Borges, Virginia Fernandez, Eli Gibson, Sebastien Ourselin, M.Jorge Cardoso*
+
+15:30-16:00  Poster Session & Coffee Break
+
+<br>
+
+**Session 2: Keynote 2, Spotlight Presentations, Awards, and Concluding**
+
+16:00–16:25  Keynote Talk 2
+
+*Prof. Helen Higham*, Director of the Oxford Simulation, Teaching and Research Centre (OxSTaR), University of Oxford
+
+<br>
+
+16:25–17:00  Spotlight Talks
+
+16:25–16:30  Learning What is Worth Learning: Active and Sequential Domain Adaptation for Multi-modal Gross Tumor Volume Segmentation
+
+*Jingyun Yang, Guoqing Zhang, Jingge Wang, Yang Li*
+
+16:30–16:35  Real-Time, Dynamic, and Highly Generalizable Ultrasound Image Simulation-Guided Procedure Training System for Musculoskeletal Minimally Invasive Treatment
+
+*Xiandi Wang, Zekun Jiang, Mengqi Tang, Ying Han, Dan Pu, Kang Li*
+
+16:35–16:40  Guided Active Learning for Medical Image Segmentation
+
+*Bernhard Föllmer, Vladimir Serafimoski, Kenrick Schulze, Federico Biavati, Sebastian Stober, Wojciech Samek, Marc Dewey*
+
+16:40–16:45  Simulating Inter-observer Variability Across Clinical Experience Levels
+
+*Haley Gillett, Emma Stanley, Raissa Souza, Matthias Wilms, Nils Forkert*
+
+16:45–16:50  Perceptual Evaluation of GANs and Diffusion Models for Generating X-rays
+
+*Denis Parra*
+
+16:50–17:00  Q&A for Spotlight Talks
+
+<br>
+
+17:00–17:10  Awards and Concluding
+
 
 
 ## Important Dates
 | Date  | Milestone |
 |---|---|
-| Submission open | April 15, 2025 (TBC) |
+| Submission open | April 15, 2025 |
 | **Paper submission due** | **July 2, 2025** |
 | Notification of paper decisions |	July 25, 2025 | 
 |Camera-ready papers due	|	July 30, 2025 | 
@@ -212,8 +298,9 @@ TBA
 
 ## Sponsors
 
-We are actively seeking industry sponsors for this workshop. If your organization is interested in supporting or collaborating, please feel free to contact us at miccai.haic@gmail.com.
-
+<div style="margin-top: 20px; text-align: center;">
+<img alt="nvidia-logo-horz" src="https://github.com/user-attachments/assets/58015356-04de-4131-b76e-d1a8e027f17f" width=385>
+</div>  
 
 ## Awards
 
@@ -224,7 +311,7 @@ TBA
 For general inquiries please contact miccai.haic@gmail.com
 
 <div style="margin-top: 20px; text-align: center;">
-    <img src="/images/organizers_institutes.png" alt="Organizer's Institute Logo" style="max-width: 100%; height: auto;">
+    <img src="/images/organizers_institutes.png" alt="Organizer's Institute Logo" >
   </div>  
 
 <style>
