@@ -12,7 +12,7 @@ The workshop will be held in conjunction with the [28th International Conference
 
 ## News
 
-[August 11, 2025] We are honored to be sponsored by [NVIDIA](https://www.nvidia.com). A GPU, generously donated by NVIDIA, will be awarded to the Best Paper awardee!
+[August 11, 2025] We are honored to be sponsored by [NVIDIA](https://www.nvidia.com). ~~A GPU~~ An [**NVIDIA DGX Spark**](https://www.nvidia.com/en-gb/products/workstations/dgx-spark/), generously donated by NVIDIA, will be awarded to the Best Paper awardee!! A huge thanks to [#NVIDIA](https://www.nvidia.com/en-gb/) [#Prof. Stephen R. Aylward](https://www.aylward.org/).
 
 [June 16, 2025] We have extended the submission deadline to July 02, 23:59 PST.
 
