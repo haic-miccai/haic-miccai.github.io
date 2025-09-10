@@ -153,13 +153,13 @@ Workshop Date: September 27, 2025
 
 14:30–15:30  Oral Session 1
 
-14:30–14:45  User Perception of Attention Visualizations: Effects on Interpretability Across Evidence-Based Medical Documents
-
-*Andres Carvallo,  Denis Parra, Peter Brusilovsky, Hernan Valdivieso, Gabriel Rada, Ivania Donoso, Vladimir Araujo*
-
-14:45–15:00  Explainable AI for Automated User-specific Feedback in Surgical Skill Acquisition
+14:30–14:45  Explainable AI for Automated User-specific Feedback in Surgical Skill Acquisition
 
 *Catalina Gomez, Lalithkumar Seenivasan, Xinrui Zou, Jeewoo Yoon, Sirui Chu, Ariel Leong, Patrick Kramer, Yu-Chun Ku, Jose L. Porras, Alejandro Martin-Gomez, Masaru Ishii, Mathias Unberath*
+
+14:45–15:00  User Perception of Attention Visualizations: Effects on Interpretability Across Evidence-Based Medical Documents
+
+*Andres Carvallo,  Denis Parra, Peter Brusilovsky, Hernan Valdivieso, Gabriel Rada, Ivania Donoso, Vladimir Araujo*
 
 15:00–15:15  Beyond Manual Annotation: A Human-AI Collaborative Framework for Medical Image Segmentation Using Only “Better or Worse” Expert Feedback
 
