@@ -142,7 +142,7 @@ Workshop Date: September 27, 2025
 
 13:40–14:05  Keynote Talk 1
 
-*Prof. Nassir Navab*, Director of the Laboratories for Computer Aided Medical Procedures, Technical University of Munich
+*Prof. Helen Higham*, Director of the Oxford Simulation, Teaching and Research Centre (OxSTaR), University of Oxford
 
 <br>
 14:05–14:30  Industry Talk
@@ -177,7 +177,7 @@ Workshop Date: September 27, 2025
 
 16:00–16:25  Keynote Talk 2
 
-*Prof. Helen Higham*, Director of the Oxford Simulation, Teaching and Research Centre (OxSTaR), University of Oxford
+*Prof. Nassir Navab*, Director of the Laboratories for Computer Aided Medical Procedures, Technical University of Munich
 
 <br>
 
