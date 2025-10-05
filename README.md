@@ -12,6 +12,8 @@ The workshop will be held in conjunction with the [28th International Conference
 
 ## News
 
+[October 5, 2025] Please find our [Youtube channel](https://www.youtube.com/channel/UCq29UUUlpkh5oQM9NvkipOQ) for video presenations!
+
 [August 11, 2025] We are honored to be sponsored by [NVIDIA](https://www.nvidia.com). ~~A GPU~~ An [**NVIDIA DGX Spark**](https://www.nvidia.com/en-gb/products/workstations/dgx-spark/), generously donated by NVIDIA, will be awarded to the Best Paper awardee!! A huge thanks to [#NVIDIA](https://www.nvidia.com/en-gb/) [#Prof. Stephen R. Aylward](https://www.aylward.org/), [#Dr. Daguaang Xu](https://research.nvidia.com/person/daguang-xu), and their teams.
 
 [June 16, 2025] We have extended the submission deadline to July 02, 23:59 PST.
@@ -157,15 +159,15 @@ Workshop Date: September 27, 2025
 
 *Andres Carvallo,  Denis Parra, Peter Brusilovsky, Hernan Valdivieso, Gabriel Rada, Ivania Donoso, Vladimir Araujo*
 
-14:45–15:00  Explainable AI for Automated User-specific Feedback in Surgical Skill Acquisition
+14:45–15:00  Explainable AI for Automated User-specific Feedback in Surgical Skill Acquisition [[video]](https://www.youtube.com/watch?v=gtw1ECaIT6U)
 
 *Catalina Gomez, Lalithkumar Seenivasan, Xinrui Zou, Jeewoo Yoon, Sirui Chu, Ariel Leong, Patrick Kramer, Yu-Chun Ku, Jose L. Porras, Alejandro Martin-Gomez, Masaru Ishii, Mathias Unberath*
 
-15:00–15:15  Beyond Manual Annotation: A Human-AI Collaborative Framework for Medical Image Segmentation Using Only “Better or Worse” Expert Feedback
+15:00–15:15  Beyond Manual Annotation: A Human-AI Collaborative Framework for Medical Image Segmentation Using Only “Better or Worse” Expert Feedback [[video]](https://www.youtube.com/watch?v=kIRbX5vc-Iw)
 
 *Yizhe Zhang*
 
-15:15–15:30  A methodology for clinically driven interactive segmentation evaluation
+15:15–15:30  A methodology for clinically driven interactive segmentation evaluation [[video]](https://www.youtube.com/watch?v=dyTJL4I1fGQ)
 
 *Parhom Esmaeili, Pedro Borges, Virginia Fernandez, Eli Gibson, Sebastien Ourselin, M.Jorge Cardoso*
 
@@ -183,19 +185,19 @@ Workshop Date: September 27, 2025
 
 16:25–17:00  Spotlight Talks
 
-16:25–16:30  Learning What is Worth Learning: Active and Sequential Domain Adaptation for Multi-modal Gross Tumor Volume Segmentation
+16:25–16:30  Learning What is Worth Learning: Active and Sequential Domain Adaptation for Multi-modal Gross Tumor Volume Segmentation [[video]](https://www.youtube.com/watch?v=RjPLxW2W_e8)
 
 *Jingyun Yang, Guoqing Zhang, Jingge Wang, Yang Li*
 
-16:30–16:35  Real-Time, Dynamic, and Highly Generalizable Ultrasound Image Simulation-Guided Procedure Training System for Musculoskeletal Minimally Invasive Treatment
+16:30–16:35  Real-Time, Dynamic, and Highly Generalizable Ultrasound Image Simulation-Guided Procedure Training System for Musculoskeletal Minimally Invasive Treatment [[video]](https://www.youtube.com/watch?v=fI2BKNUFoFI)
 
 *Xiandi Wang, Zekun Jiang, Mengqi Tang, Ying Han, Dan Pu, Kang Li*
 
-16:35–16:40  Guided Active Learning for Medical Image Segmentation
+16:35–16:40  Guided Active Learning for Medical Image Segmentation [[video]](https://www.youtube.com/watch?v=HmyGM7Da_jA)
 
 *Bernhard Föllmer, Vladimir Serafimoski, Kenrick Schulze, Federico Biavati, Sebastian Stober, Wojciech Samek, Marc Dewey*
 
-16:40–16:45  Simulating Inter-observer Variability Across Clinical Experience Levels
+16:40–16:45  Simulating Inter-observer Variability Across Clinical Experience Levels [[video]](https://www.youtube.com/watch?v=cjpZ71pG4mw)
 
 *Haley Gillett, Emma Stanley, Raissa Souza, Matthias Wilms, Nils Forkert*
 
