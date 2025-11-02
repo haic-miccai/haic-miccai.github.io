@@ -12,6 +12,8 @@ The workshop will be held in conjunction with the [28th International Conference
 
 ## News
 
+[November 2, 2025] Our HAIC 2025 proceedings have been published [online](https://link.springer.com/book/10.1007/978-3-032-08970-0) with Springer LNCS!
+
 [October 5, 2025] Please find our [Youtube channel](https://www.youtube.com/channel/UCq29UUUlpkh5oQM9NvkipOQ) for video presenations!
 
 [August 11, 2025] We are honored to be sponsored by [NVIDIA](https://www.nvidia.com). ~~A GPU~~ An [**NVIDIA DGX Spark**](https://www.nvidia.com/en-gb/products/workstations/dgx-spark/), generously donated by NVIDIA, will be awarded to the Best Paper awardee!! A huge thanks to [#NVIDIA](https://www.nvidia.com/en-gb/) [#Prof. Stephen R. Aylward](https://www.aylward.org/), [#Dr. Daguaang Xu](https://research.nvidia.com/person/daguang-xu), and their teams.
