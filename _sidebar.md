@@ -1,1 +1,2 @@
-- [Content](README.md)
+- [HAIC 2026](README.md)
+- [Previous Events](archive)
