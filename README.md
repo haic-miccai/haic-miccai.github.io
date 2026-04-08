@@ -4,25 +4,23 @@
 
 ## Overview
 
-The success of Artificial Intelligence (AI) in real clinical environments depends not only on model performance, but also on how clinicians, researchers, and AI systems work together. Human-AI collaboration remains central to safe deployment, effective workflows, and trustworthy medical decision support.
+The sustained success of AI-integrated clinical and research environments depends not only on model performance, but also how clinicians, researchers, and AI systems work together. Human-AI collaboration remains central to safe deployment, effective workflow integration, and enhancement of competency and professional growth for the future healthcare workforce.
 
-**The 2nd MICCAI Workshop on Human-AI Collaboration (HAIC)** will continue the discussion started in 2025 and provide a venue for the MICCAI community to share methods, evaluation strategies, applications, and best practices for human-AI interaction, collaboration, and human factor modeling in MIC and CAI.
+**The 2nd MICCAI Workshop on Human-AI Collaboration (HAIC)** will continue the discussion started in [HAIC 2025](https://haic-miccai.github.io/#/previous-events/haic-2025) and offer the systematic discussion forum addressing all aspects of **human-AI collaboration, interaction, and human skill augmentation** for the MICCAI community. Moving beyond conventional divisions of MIC or CAI, the workshop focuses on a human-centered dimension: how human and AI collaborate and co-evolve to improve clinical outcomes today and support future workforce development and technological evolution. 
 
-This page is an early placeholder for the 2026 workshop. Dates, venue details, invited speakers, and submission logistics below are tentative and will be updated as plans are finalized.
-
-The workshop is planned to be held in conjunction with MICCAI 2026 at a venue to be announced.
+The workshop is to be held in conjunction with [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
 
 ## News
 
-[March 31, 2026] The HAIC 2026 website is now live with placeholder information for the upcoming edition.
-
-[March 31, 2026] Full submission details, invited speakers, and the final schedule will be announced soon.
+[March 31, 2026] We are excited announce The 2nd MICCAI Workshop on Human-AI Collaboration!
 
 [March 31, 2026] We are preparing the 2026 call for papers and welcome expressions of interest from the community.
 
 ## Call for Papers
 
-We invite original, unpublished work on innovative methodologies, validation studies, applications, datasets, and best practices for human-AI interaction, collaboration, and human factor modeling in medical image computing and computer-assisted interventions. The list below remains intentionally broad and non-exhaustive.
+We call for works that cover innovative methodologies, validation, application, or best practices for human-AI interaction, collaboration, human factors modeling, and human skill analysis/augmentation in medical image computing and computer-assisted interventions. Please find it below a non-exhaustive list of themes and topics.
+
+New for 2026: We introduce both a **Standard Paper** track (8 pages, unpublished MICCAI-formated original work) and a **Short & Positional Paper** track (4 pages; original or a summary of a previously published/preprinted work since July 1, 2025, or position papers).
 
 ### List of Themes
 
@@ -36,16 +34,15 @@ We invite original, unpublished work on innovative methodologies, validation stu
 
 - Image and video analysis for imaging and intervention procedures
 - Human behavior modeling in medical procedures
+- Human behavior / human factor modeling and analysis in medical procedures
 - AI-assisted guidance and navigation for imaging and intervention
 - AI-assisted medical text mining
-- AI-accelerated medical science, including hypothesis generation and experiment planning
-- Agents inspired by human behaviors and specializations
+- AI-accelerated medical science: hypothesis generation, experiment planning, implementation, and outcome interpretation
 
 **Emerging techniques for human-AI interaction and communication**
 
-- Multimodal models for medical question answering, diagnosis, and treatment planning
-- Human-friendly inputs such as natural language, audio, gesture, and gaze
-- Conversational models
+- Multimodal models that incorporate textual information (e.g., for medical question answering, diagnosis, and/or treatment planning)
+- Incorporating human-friendly inputs: natural language, audio, gesture, and gaze
 - Patient-facing models
 
 **Human-in-the-loop model training and fine-tuning**
@@ -57,7 +54,6 @@ We invite original, unpublished work on innovative methodologies, validation stu
 **Boosting transparency, interpretability, and risk management for joint human-AI systems**
 
 - Explainable medical AI and its impact on joint decisions
-- Reasoning-empowered models
 - Out-of-distribution management, hallucination mitigation, and decision deferrals
 - Uncertainty modeling, propagation, and communication
 - Learning to safeguard AI and human users
@@ -74,13 +70,30 @@ We invite original, unpublished work on innovative methodologies, validation stu
 - Identifying clinically accepted evaluation metrics or gold standards
 - Case studies of human-AI joint workflows
 
-**Applications involving any of the above elements**
+**Applications and positional papers: involving any of the above elements**
 
 ### Author Guidelines
 
-**Format:** Submissions are expected to follow the MICCAI 2026 workshop formatting guidance once released. Until then, authors can assume an LNCS-style submission format similar to prior years.
+**New for 2026** To promote the dissemniation of knowledge, we introduce the Standard Paper Track and Short \& Positional Paper Track. 
 
-**Review Process:** All submissions are expected to undergo double-blind peer review by multiple reviewers.
+#### Standard Paper (8-page, unpublished original work)
+
+**Scope:** Original works that within the workshop's themes.
+
+**Format:** Submissions should follow the MICCAI 2026 formatting guidance: 8-page main content + 2-page references, LNCS-style.
+
+#### Short \& Positional Paper (4-page, original or a summary to a published work by the authors)
+
+**Scopes:** 
+1. Original works winthin the workshop's themes
+2. A short summary of published/preprinted works by the authors that are within the workshop's themes. The referenced work(s) must have been first released no earlier than July 1, 2025. *Note: Summary papers of existing works will be invited for presentation but will not be included into workshop proceedings*
+3. Positional papers that do not fit within the Standard Paper Track
+
+**Format:** Submissions are expected to follow the LNCS-style with up to 4 pages + 2 pages of references. 
+
+---
+
+**Review Process:** All submissions are expected to undergo double-blind (single-blind for summaries to published works in the short paper track) peer review by multiple reviewers.
 
 **Presentations:** Accepted submissions are expected to be presented in person. Oral, spotlight, and poster allocations will be announced after review.
 
@@ -88,51 +101,32 @@ We invite original, unpublished work on innovative methodologies, validation stu
 
 ### Submission Guidelines
 
-**Submission Portal:** The 2026 submission portal will be announced soon.
+**Submission Portal:** TBA
 
-**Submission Deadline:** Tentatively July 2026, 23:59 PST.
+**Submission Deadline:** TBA
 
-## Program
+## Program 
 
-### Invited Speakers
+### Invited Speakers (Tentative)
 
-Invited speakers for the 2026 edition will be announced soon.
+- [Ben Attwood](https://www.kellogg.ox.ac.uk/our-people/ben-attwood/) (Chief Digital and Information Officer, Oxford University Hospitals NHS Foundation Trust) 
+
+- [James Zou](https://www.james-zou.com/) (Associate Professor of Biomedical Data Science, Stanford University)
+
+- [Daguang Xu](https://research.nvidia.com/person/daguang-xu) and [Bruce Hashemian](https://research.nvidia.com/person/daguang-xu) (Senior Research Manager / Chair of the NOMAI Human-AI Interaction Working Group, NVIDIA) 
 
 ### Program Schedule
 
-Workshop Date: Tentatively September 2026
-
-<br>
-
-**Session 1: Opening Remarks, Invited Talks, and Oral Presentations**
-
-09:00-09:10 Opening Remarks
-
-09:10-10:00 Invited Talk 1
-
-10:00-10:30 Spotlight and oral presentations
-
-10:30-11:00 Coffee break and poster viewing
-
-<br>
-
-**Session 2: Human-AI Systems, Evaluation, and Discussion**
-
-11:00-11:45 Invited Talk 2
-
-11:45-12:30 Thematic oral presentations
-
-12:30-12:45 Awards and closing discussion
+TBA
 
 ## Important Dates
 
 | Date | Milestone |
 |---|---|
-| Call for papers announced | April 2026 (tentative) |
-| **Paper submission due** | **July 2026 (tentative)** |
-| Notification of decisions | August 2026 (tentative) |
-| Camera-ready papers due | August 2026 (tentative) |
-| **Workshop date** | **September 2026 (tentative)** |
+| **Paper submission due** | TBA  |
+| Notification of decisions | July 2026 (TBA) |
+| Camera-ready papers due | August 2026 (TBA) |
+| **Workshop date** | **October 2026 (TBA)** |
 
 <p align="right"><em>(Tentative timeline; final dates will be confirmed later.)</em></p>
 
@@ -154,10 +148,23 @@ Workshop Date: Tentatively September 2026
 
 - [Qi Dou](http://www.cse.cuhk.edu.hk/~qdou/) (Chinese University of Hong Kong)
 - [Helen Higham](http://www.cse.cuhk.edu.hk/~qdou/) (University of Oxford)
+- [Pierre Jannin](https://medicis.univ-rennes1.fr/members/pierre.jannin/index) (University of Rennes)
 - [Nassir Navab](http://www.cse.cuhk.edu.hk/~qdou/) (Technical University of Munich)
 - [Alison Noble](https://ibme.ox.ac.uk/person/alison-noble/) (University of Oxford)
+- [Pranav Rajpurkar](https://dbmi.hms.harvard.edu/people/pranav-rajpurkar) (Harvard University)
 
-### Program Committee
+### Industry Board
+
+- [Bruce Hashemian](https://github.com/bhashemian) (NVIDIA)    
+- [Daguang Xu](https://research.nvidia.com/person/daguang-xu) (NVIDIA)
+
+### Student Borad
+
+- [Haoxin Chen](https://scholar.google.com/citations?user=63XFxHgAAAAJ&hl=zh-CN) (Hong Kong Baptist University)
+- [Sue Min Cho](https://suemincho.com/) (Johns Hopkins University)
+- [Anjie Le](https://ale256.github.io/) (University of Oxford)
+- [Emily Peacock](https://ibme.ox.ac.uk/person/emily-peacock/) (University of Oxford)
+- [Ziyue Wang](https://www.linkedin.com/in/ziyue-wang-4a06a7233) (National University of Singapore)
 
 Program committee updates for the 2026 edition will be announced soon. The 2025 archive remains available from the sidebar for the previous committee list and full historical program.
 
@@ -174,7 +181,7 @@ To be announced.
 For general inquiries, please contact miccai.haic@gmail.com.
 
 <div style="margin-top: 20px; text-align: center;">
-  <img src="./images/organizers_institutes.png" alt="Organizer's Institute Logo" style="max-width: 100%; height: auto;">
+  <img src="./images/organizers_institutes26_singlerow.png" alt="Organizer's Institute Logo" style="max-width: 100%; height: auto;">
 </div>
 
 <style>
