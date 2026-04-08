@@ -1,12 +1,12 @@
 <img src="./images/mainpage_figurev2.png" alt="Mainpage figure" style="width: 100%; display: block; margin: 0 auto;">
 
-# The 2nd MICCAI Workshop on Human-AI Collaboration (HAIC)
+# The 2nd MICCAI Workshop on Human-AI Collaboration (HAIC 2026)
 
 ## Overview
 
 The sustained success of AI-integrated clinical and research environments depends not only on model performance, but also how clinicians, researchers, and AI systems work together. Human-AI collaboration remains central to safe deployment, effective workflow integration, and enhancement of competency and professional growth for the future healthcare workforce.
 
-**The 2nd MICCAI Workshop on Human-AI Collaboration (HAIC)** will continue the discussion started in [HAIC 2025](https://haic-miccai.github.io/#/previous-events/haic-2025) and offer the systematic discussion forum addressing all aspects of **human-AI collaboration, interaction, and human skill augmentation** for the MICCAI community. Moving beyond conventional divisions of MIC or CAI, the workshop focuses on a human-centered dimension: how human and AI collaborate and co-evolve to improve clinical outcomes today and support future workforce development and technological evolution. 
+**The 2nd MICCAI Workshop on Human-AI Collaboration (HAIC 2026)** will continue the discussion started in [HAIC 2025](https://haic-miccai.github.io/#/previous-events/haic-2025) and offer the systematic discussion forum addressing all aspects of **human-AI collaboration, interaction, and human skill augmentation** for the MICCAI community. Moving beyond conventional divisions of MIC or CAI, the workshop focuses on a human-centered dimension: how human and AI collaborate and co-evolve to improve clinical outcomes today and support future workforce development and technological evolution. 
 
 The workshop is to be held in conjunction with [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
 
