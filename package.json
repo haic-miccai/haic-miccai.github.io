@@ -3,9 +3,13 @@
   "version": "0.5.0",
   "description": "website for the workshop",
   "scripts": {
-    "start": "docsify serve ."
+    "start": "docsify serve .",
+    "dev": "docsify serve . --port 3000"
   },
   "dependencies": {
     "docsify": "^4.4"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
   }
 }
