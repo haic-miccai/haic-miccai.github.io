@@ -5,8 +5,8 @@
 
 In conjunction with the [29th International Conference on Medical Image Computing and Computer Assisted Intervention](https://conferences.miccai.org/2026/en/default.asp)
 
-October, 2026
+September, 2026
 
-ADNEC Centre, Abu Dhabi, UAE
+Strasbourg Convention Centre, Strasbourg, France
 
 [**Get Started**](README)
