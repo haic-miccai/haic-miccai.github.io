@@ -22,6 +22,8 @@ We call for works that cover innovative methodologies, validation, application, 
 
 New for 2026: We introduce both a **Standard Paper** track (8 pages, unpublished MICCAI-formated original work) and a **Short & Positional Paper** track (4 pages; original or a summary of a previously published/preprinted work since July 1, 2025, or position papers).
 
+[Submission portal](https://openreview.net/group?id=MICCAI.org/2026/Workshop/HAIC&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
+
 ### List of Themes
 
 **Human-AI collaborative approaches and joint decision making**
@@ -101,9 +103,9 @@ New for 2026: We introduce both a **Standard Paper** track (8 pages, unpublished
 
 ### Submission Guidelines
 
-**Submission Portal:** TBA
+**Submission Portal:** [link](https://openreview.net/group?id=MICCAI.org/2026/Workshop/HAIC&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
 
-**Submission Deadline:** TBA
+**Submission Deadline:** July 01 23:59 GMT.
 
 ## Program 
 
