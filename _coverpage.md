@@ -5,7 +5,7 @@
 
 In conjunction with the [29th International Conference on Medical Image Computing and Computer Assisted Intervention](https://conferences.miccai.org/2026/en/default.asp)
 
-September, 2026
+October 1, 2026
 
 Strasbourg Convention Centre, Strasbourg, France
 
