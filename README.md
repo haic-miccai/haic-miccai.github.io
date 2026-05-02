@@ -115,7 +115,7 @@ New for 2026: We introduce both a **Standard Paper** track (8 pages, unpublished
 
 - [James Zou](https://www.james-zou.com/) (Associate Professor of Biomedical Data Science, Stanford University)
 
-- [Daguang Xu](https://research.nvidia.com/person/daguang-xu) and [Bruce Hashemian](https://research.nvidia.com/person/daguang-xu) (Senior Research Manager / Chair of the NOMAI Human-AI Interaction Working Group, NVIDIA) 
+- [Daguang Xu](https://research.nvidia.com/person/daguang-xu) and [Bruce Hashemian](https://research.nvidia.com/person/daguang-xu) (Senior Research Manager / Chair of the MONAI Human-AI Interaction Working Group, NVIDIA) 
 
 ### Program Schedule
 
@@ -125,10 +125,10 @@ TBA
 
 | Date | Milestone |
 |---|---|
-| **Paper submission due** | TBA  |
+| **Paper submission due** | July 1 2026  |
 | Notification of decisions | July 2026 (TBA) |
 | Camera-ready papers due | August 2026 (TBA) |
-| **Workshop date** | **October 2026 (TBA)** |
+| **Workshop date** | **October 1 2026** |
 
 <p align="right"><em>(Tentative timeline; final dates will be confirmed later.)</em></p>
 
