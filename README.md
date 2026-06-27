@@ -11,7 +11,7 @@ The sustained success of AI-integrated clinical and research environments depend
 The workshop is to be held in conjunction with [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
 
 ## News
-[June 26, 2026] We decide to extend the submission deadline to **July 4th**. We recognize that recent extreme weather has affected work in many regions, and therefore we have decided to extend the deadline by a few days.
+[June 26, 2026] We decide to extend the submission deadline to **July 6th**. We recognize that recent extreme weather has affected work in many regions, and therefore we have decided to extend the deadline by a few days.
 
 [March 31, 2026] We are excited announce The 2nd MICCAI Workshop on Human-AI Collaboration!
 
