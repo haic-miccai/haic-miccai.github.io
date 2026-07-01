@@ -106,7 +106,7 @@ New for 2026: We introduce both a **Standard Paper** track (8 pages, unpublished
 
 **Submission Portal:** [link](https://openreview.net/group?id=MICCAI.org/2026/Workshop/HAIC&referrer=%5BHomepage%5D(%2F)#tab-your-consoles)
 
-**Submission Deadline: ~~July 01~~ ** July 04 23:59 GMT.
+**Submission Deadline: ~~July 01~~ ** July 06 23:59 GMT.
 
 ## Program 
 
@@ -126,7 +126,7 @@ TBA
 
 | Date | Milestone |
 |---|---|
-| **Paper submission due** | July 1 2026  |
+| **Paper submission due** | July 6 2026  |
 | Notification of decisions | July 2026 (TBA) |
 | Camera-ready papers due | August 2026 (TBA) |
 | **Workshop date** | **October 1 2026** |
