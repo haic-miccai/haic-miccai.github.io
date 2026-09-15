@@ -29,7 +29,7 @@ The workshop is to be held in conjunction with [MICCAI 2026](https://conferences
 
 ### Program Schedule
 
-**Room Leicester (U), Strasbourg Convention Center**  
+**Room Leicester, Strasbourg Convention Center**  
 **13:30, October 1, 2026**
 
 #### Session 1: Opening Remarks, Keynotes, Oral Presentations, and Panel Discussion
