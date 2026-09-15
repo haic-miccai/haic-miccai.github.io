@@ -67,7 +67,7 @@ The workshop is to be held in conjunction with [MICCAI 2026](https://conferences
 
 #### Session 2: Spotlight Presentations, Awards, and Concluding
 
-**16:00–16:35** Spotlight Talks
+**16:00–16:45** Spotlight Talks
 
 **16:00–16:05** It’s Time to Talk Human-Centered Research at MICCAI  
 *Sue Min Cho, Catalina Gomez, Katharina Breininger, Francis Creighton, Xiaoqing Guo, Dean Ho, Masaru Ishii, Pierre Jannin, Marta Kersten, Seong Tae Kim, Nassir Navab, Cheng Ouyang, Shandong Wu, Paul Yi, Maria A. Zuluaga, Mathias Unberath*
