@@ -7,7 +7,7 @@ In conjunction with the [29th International Conference on Medical Image Computin
 
 **13:30, October 1, 2026**
 
-**Room Leicester (U), Strasbourg Convention Center** 
+**Room Leicester, Strasbourg Convention Center** 
 
 Strasbourg, France
 
