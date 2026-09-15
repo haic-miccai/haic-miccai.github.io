@@ -14,14 +14,10 @@ The sustained success of AI-integrated clinical and research environments depend
 The workshop is to be held in conjunction with [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
 
 ## News
-[September 12, 2026] The workshop program has been released. We look forward to seeing you on Oct. 01.
-
-[September 12, 2026] We are honored to be sponsored by [NVIDIA](https://www.nvidia.com). An [**NVIDIA DGX Spark**](https://www.nvidia.com/en-gb/products/workstations/dgx-spark/), generously donated by NVIDIA, will be awarded to the Best Paper awardee!! A huge thanks to [#NVIDIA](https://www.nvidia.com/en-gb/) [Dr. Bruce Hashemian](https://www.linkedin.com/in/brucehashemian), [Dr. Daguaang Xu](https://research.nvidia.com/person/daguang-xu), and their teams.
-
-[June 26, 2026] We decide to extend the submission deadline to **July 6th**. We recognize that recent extreme weather has affected work in many regions, and therefore we have decided to extend the deadline by a few days.
-
-[March 31, 2026] We are excited announce The 2nd MICCAI Workshop on Human-AI Collaboration!
-
+[September 12, 2026] The workshop program has been released. We look forward to seeing you on Oct. 01.  
+[September 12, 2026] We are honored to be sponsored by [NVIDIA](https://www.nvidia.com). An [**NVIDIA DGX Spark**](https://www.nvidia.com/en-gb/products/workstations/dgx-spark/), generously donated by NVIDIA, will be awarded to the Best Paper awardee!! A huge thanks to [#NVIDIA](https://www.nvidia.com/en-gb/) [Dr. Bruce Hashemian](https://www.linkedin.com/in/brucehashemian), [Dr. Daguaang Xu](https://research.nvidia.com/person/daguang-xu), and their teams.  
+[June 26, 2026] We decide to extend the submission deadline to **July 6th**. We recognize that recent extreme weather has affected work in many regions, and therefore we have decided to extend the deadline by a few days.  
+[March 31, 2026] We are excited announce The 2nd MICCAI Workshop on Human-AI Collaboration!  
 [March 31, 2026] We are preparing the 2026 call for papers and welcome expressions of interest from the community.
 
 ## Program
