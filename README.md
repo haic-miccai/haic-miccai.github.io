@@ -268,7 +268,7 @@ The workshop is to be held in conjunction with [MICCAI 2026](https://conferences
 </details>
 
 <details>
-<summary><strong>Program Committee</strong> (25 members)</summary>
+<summary><strong>Program Committee</strong></summary>
 
 - Diego Bravo (Universidad Nacional de Colombia)
 - Ruoyu Chen (Michigan State University)
