@@ -2,7 +2,7 @@
 
 # The 2nd MICCAI Workshop on Human-AI Collaboration (HAIC 2026)
 
-**Room Leicester (U), Strasbourg Convention Center**  
+**Room Leicester, Strasbourg Convention Center**  
 **13:30, October 1, 2026** 
 
 ## Overview
