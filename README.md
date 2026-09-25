@@ -39,8 +39,8 @@ The workshop is to be held in conjunction with [MICCAI 2026](https://conferences
 **13:40–14:05** Keynote Talk  
 *Prof. James Zou, Stanford University*
 
-**14:05–14:30** Industry Talk  
-*Dr. Daguang Xu and Dr. Bruce Hashemian, NVIDIA*
+**14:05–14:30** Intelligence in the Moment: The Role of Latency in Clinical Human-AI Symbiosis
+*Dr. Bruce Hashemian, NVIDIA*
 
 **14:30–15:15** Oral Session 1
 
