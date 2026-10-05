@@ -310,7 +310,7 @@ The workshop is to be held in conjunction with [MICCAI 2026](https://conferences
 ## Awards
 
 - [NVIDIA DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) (Best Paper Award)
-- [NVIDIA Brev Credit](https://brev.nvidia.com) (Best Presentation/Poster Award)
+- [NVIDIA Brev Credit](https://brev.nvidia.com) (Best Presentation and Best Poster Awards)
 
 ## Contact
 
