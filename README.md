@@ -14,6 +14,8 @@ The sustained success of AI-integrated clinical and research environments depend
 The workshop is to be held in conjunction with [MICCAI 2026](https://conferences.miccai.org/2026/en/default.asp).
 
 ## News
+[October 1, 2026] The [open access versions of the conference proceedings](https://papers.miccai.org/miccai-2026-sat/categories/#HAIC26) is here.  
+[October 1, 2026] **The workshop day!**. 
 [September 12, 2026] The workshop program has been released. We look forward to seeing you on Oct. 01.  
 [September 12, 2026] We are honored to be sponsored by [NVIDIA](https://www.nvidia.com). An [**NVIDIA DGX Spark**](https://www.nvidia.com/en-gb/products/workstations/dgx-spark/), generously donated by NVIDIA, will be awarded to the Best Paper awardee!! A huge thanks to [#NVIDIA](https://www.nvidia.com/en-gb/) [Dr. Bruce Hashemian](https://www.linkedin.com/in/brucehashemian), [Dr. Daguaang Xu](https://research.nvidia.com/person/daguang-xu), and their teams.  
 [June 26, 2026] We decide to extend the submission deadline to **July 6th**. We recognize that recent extreme weather has affected work in many regions, and therefore we have decided to extend the deadline by a few days.  
