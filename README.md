@@ -25,7 +25,7 @@ The workshop is to be held in conjunction with [MICCAI 2026](https://conferences
 ### Invited Speakers
 
 - [James Zou](https://www.james-zou.com/) (Associate Professor of Biomedical Data Science, Stanford University)
-- [Daguang Xu](https://research.nvidia.com/person/daguang-xu) and [Bruce Hashemian](https://www.linkedin.com/in/brucehashemian) (Senior Research Manager / Chair of the MONAI Human-AI Interaction Working Group, NVIDIA)
+- [Bruce Hashemian](https://www.linkedin.com/in/brucehashemian) (Chair of the MONAI Human-AI Interaction Working Group, NVIDIA)
 
 ### Program Schedule
 
@@ -39,7 +39,7 @@ The workshop is to be held in conjunction with [MICCAI 2026](https://conferences
 **13:40–14:05** Keynote Talk  
 *Prof. James Zou, Stanford University*
 
-**14:05–14:30** Intelligence in the Moment: The Role of Latency in Clinical Human-AI Symbiosis
+**14:05–14:30** Keynote Talk: Intelligence in the Moment: The Role of Latency in Clinical Human-AI Symbiosis  
 *Dr. Bruce Hashemian, NVIDIA*
 
 **14:30–15:15** Oral Session 1
@@ -309,7 +309,8 @@ The workshop is to be held in conjunction with [MICCAI 2026](https://conferences
 
 ## Awards
 
-To be announced.
+- [NVIDIA DGX Spark](https://www.nvidia.com/en-us/products/workstations/dgx-spark/) (Best Paper Award)
+- [NVIDIA Brev Credit](https://brev.nvidia.com) (Best Presentation and Best Poster Awards)
 
 ## Contact
 
